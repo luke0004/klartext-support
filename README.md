@@ -32,14 +32,8 @@ Paste text from PDFs, emails, terminals, or the web. Hard-wrapped lines are rejo
 **Join List as Prose**
 Turn a bullet or numbered list into a single flowing paragraph in one step. Each item becomes a sentence: capitalised, punctuated, ready.
 
-**Focus Mode** `Cmd+Opt+F`
-Full screen, hidden sidebar, wide margins. One keystroke to eliminate everything except the text.
-
-**Rich format import**
-Open a Word document, PDF, or RTF file. It opens as plain text — formatting stripped, words intact. No Office installation required.
-
-**Live tail**
-Follow a growing log file in real time.
+**Focus Mode** 
+Full screen, hidden sidebar, wide margins.
 
 ---
 
@@ -52,7 +46,6 @@ Follow a growing log file in real time.
 - Line ending conversion (LF / CRLF / CR) in the status bar
 - Go to Line `Cmd+L`, Delete Line `Cmd+Shift+K`
 - Block indent / outdent for selections `Tab` / `Shift+Tab`
-- Block cursor option
 - System, light, and dark themes
 - Native macOS app — not Electron
 
@@ -61,3 +54,4 @@ Follow a growing log file in real time.
 [**Download on the Mac App Store**](#)
 
 [Support & bug reports](https://github.com/luke0004/klartext/issues)
+
