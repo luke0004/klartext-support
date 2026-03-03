@@ -33,7 +33,7 @@ Paste text from PDFs, emails, terminals, or the web. Hard-wrapped lines are rejo
 Turn a bullet or numbered list into a single flowing paragraph in one step. Each item becomes a sentence: capitalised, punctuated, ready.
 
 **Focus Mode** 
-Full screen, hidden sidebar, wide margins.
+Just text, hidden sidebar, wide margins.
 
 ---
 
@@ -54,4 +54,5 @@ Full screen, hidden sidebar, wide margins.
 [**Download on the Mac App Store**](#)
 
 [Support & bug reports](https://github.com/luke0004/klartext/issues)
+
 
